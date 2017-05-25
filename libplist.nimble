@@ -1,4 +1,4 @@
-0;37;14m# Package
+# Package
 
 version       = "0.1.0"
 author        = "Samantha Marshall"
